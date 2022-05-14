@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-14T14:49:08 MSK" name="MainTest" finished-at="2022-05-14T14:49:08 MSK" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2022-05-14T14:49:08 MSK" name="Command line test" finished-at="2022-05-14T14:49:08 MSK" duration-ms="49">
+      <class name="MainTest">
+        <test-method signature="testAbbr4()[pri:0, instance:MainTest@5b239d7d]" started-at="2022-05-14T14:49:08 MSK" name="testAbbr4" finished-at="2022-05-14T14:49:08 MSK" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbbr4 -->
+        <test-method signature="testAbbr8()[pri:0, instance:MainTest@5b239d7d]" started-at="2022-05-14T14:49:08 MSK" name="testAbbr8" finished-at="2022-05-14T14:49:08 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbbr8 -->
+      </class> <!-- MainTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- MainTest -->
+</testng-results>
